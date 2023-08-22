@@ -1,0 +1,9 @@
+.vscode/
+env/
+test.session.sql
+main/__pycache__/
+main/.dbdata/
+main/migrations/
+admin/__pycache__/
+admin/.dbdata/
+admin/migrations/
